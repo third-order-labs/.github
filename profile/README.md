@@ -25,4 +25,6 @@ All plugins work with both [Claude Code](https://claude.ai/code) and [Cowork](ht
 
 ## About
 
-Third Order Labs is built by [Ian Jones](https://github.com/pburghdoom). The name reflects how we think: first-order effects are obvious, second-order effects are predictable, third-order effects are where things get interesting.
+Third Order Labs is built by [Ian Jones](https://www.linkedin.com/in/ianaldenjones/). The name reflects how we think: first-order effects are obvious, second-order effects are predictable, third-order effects are where things get interesting.
+
+[Substack](https://ianaldenjones.substack.com/) · [LinkedIn](https://www.linkedin.com/in/ianaldenjones/)
