@@ -2,7 +2,7 @@
 
 Plugins and tools for people who work with AI, not just use it.
 
-We build opinionated tools born from real workflows — writing systems, domain-specific copilots, long-form fiction engines. Everything here started as a solution to an actual problem, got tested in production, and shipped when it worked.
+We build opinionated tools born from real workflows: writing systems, domain-specific copilots, long-form fiction engines. Everything here started as a solution to an actual problem, got tested in production, and shipped when it worked.
 
 ## Plugins
 
